@@ -3,6 +3,16 @@
 
 [![Build Status](https://travis-ci.org/tensorflow/magenta.svg?branch=master)](https://travis-ci.org/tensorflow/magenta)
  [![PyPI version](https://badge.fury.io/py/magenta.svg)](https://badge.fury.io/py/magenta)
+ 
+ This fork contains changes made to the Google Magenta project by [CUMIN](cumin.org.uk)'s project teams. These changes are currently composed of:
+ 
+ * **Music Transcription with Deep Neural Networks**:
+	
+	Contact: [Bruno Mlodozeniec](mailto:bkmlodozeniec@gmail.com)
+	
+ 	- Changes made to implementation of [Onsets and Frames: Dual-Objective Piano Transcription](magenta/models/onsets_frames_transcription)
+ 
+---
 
 **Magenta** is a research project exploring the role of machine learning
 in the process of creating art and music.  Primarily this
